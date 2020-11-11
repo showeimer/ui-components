@@ -1,6 +1,7 @@
 export * from './AcmAlert/AcmAlert'
 export * from './AcmBackdrop/AcmBackdrop'
 export * from './AcmButton/AcmButton'
+export * from './AcmCard/AcmCard'
 export * from './AcmCodeSnippet/AcmCodeSnippet'
 export * from './AcmModal/AcmModal'
 export * from './AcmEmptyState/AcmEmptyState'
